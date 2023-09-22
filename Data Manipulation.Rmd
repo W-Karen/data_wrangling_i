@@ -1,5 +1,5 @@
 ---
-title: "Data Import"
+title: "Data Manipulation"
 output: github_document
 ---
 
